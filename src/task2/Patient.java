@@ -1,3 +1,5 @@
+package task2;
+
 public class Patient {
     private String Name;
     private int Age;

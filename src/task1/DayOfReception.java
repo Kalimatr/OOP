@@ -1,3 +1,5 @@
+package task1;
+
 public class DayOfReception extends Doctor {
 
     private String DayOfReception;

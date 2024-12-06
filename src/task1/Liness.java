@@ -1,3 +1,5 @@
+package task1;
+
 public class Liness {
     private Patient Patient;
     private Doctor Doctor;
