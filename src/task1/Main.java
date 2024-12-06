@@ -1,3 +1,5 @@
+package task1;
+
 public class Main {
     public static void main(String[] args) {
         MedicalCard medicalCard = new MedicalCard(112312,"11.11.11");

@@ -1,3 +1,5 @@
+package task2;
+
 public class MedicalCard {
     private int Number;
     private String DateOfBirth;

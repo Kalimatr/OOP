@@ -1,3 +1,5 @@
+package task1;
+
 public class Doctor {
     private String Name;
     private String Type;
