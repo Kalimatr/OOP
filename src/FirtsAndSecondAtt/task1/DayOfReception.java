@@ -1,4 +1,4 @@
-package task1;
+package FirtsAndSecondAtt.task1;
 
 public class DayOfReception extends Doctor {
 

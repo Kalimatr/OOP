@@ -1,4 +1,4 @@
-package task2;
+package FirtsAndSecondAtt.task2;
 
 public class MedicalCard {
     private int Number;

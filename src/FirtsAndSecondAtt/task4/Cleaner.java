@@ -1,4 +1,4 @@
-package task4;
+package FirtsAndSecondAtt.task4;
 
 public class Cleaner extends OtherStaff implements People {
     private String name;

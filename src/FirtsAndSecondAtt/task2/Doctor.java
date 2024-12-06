@@ -1,4 +1,4 @@
-package task2;
+package FirtsAndSecondAtt.task2;
 
 public abstract class  Doctor {
     private String Name;
